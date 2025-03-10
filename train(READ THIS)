@@ -1,0 +1,2 @@
+# the best.pt are the trained weights..so incase u want to starrt from 66% accuracy use is using ur following directory path.
+yolo train model=runs/detect/train7/weights/best.pt data=config.yaml epochs=125
