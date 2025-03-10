@@ -1,0 +1,8 @@
+
+path: C:/Users/ritvi/OneDrive/Desktop/detect  # dataset root dir
+train: C:/Users/ritvi/OneDrive/Desktop/detect/images/train  # train images (relative to 'path')
+val: C:/Users/ritvi/OneDrive/Desktop/detect/images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: craters
